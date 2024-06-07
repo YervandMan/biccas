@@ -34,7 +34,7 @@ module.exports = {
         'screen-xl': '1196px',
       },
       content: {
-        subtract: 'url("/assets/subtract-icon.svg")',
+        subtract: 'url("assets/subtract-icon.svg")',
       },
     },
   },
